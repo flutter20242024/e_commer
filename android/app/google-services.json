@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082173455529",
+    "project_id": "chattest-f4eb1",
+    "storage_bucket": "chattest-f4eb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082173455529:android:acc44f7d30d697216ebdb8",
+        "android_client_info": {
+          "package_name": "com.ecommerctest.ecomerc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjl8llPtFRPYB8bEOA_2l1wnH2wgn01go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
